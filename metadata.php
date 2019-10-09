@@ -14,7 +14,7 @@ $aModule = [
         'devmodule_metadata' => OxidCommunity\DevutilsMetadata\Controller\Admin\ModuleMetadata::class,
     ],
     'templates'   => [
-        'dev_metadata.tpl'       => 'oxcom/devutils-metadata/views/admin/dev_metadata.tpl',
-        'devmodule_metadata.tpl' => 'oxcom/devutils-metadata/views/admin/devmodule_metadata.tpl',
+        'dev_metadata.tpl'       => 'oxid-community/devutils-metadata/views/admin/dev_metadata.tpl',
+        'devmodule_metadata.tpl' => 'oxid-community/devutils-metadata/views/admin/devmodule_metadata.tpl',
     ],
 ];
